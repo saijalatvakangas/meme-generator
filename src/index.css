@@ -120,9 +120,9 @@ header > p {
   text-align: center;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1000px) {
   .main-content {
     margin: auto;
-    width: 70%;
+    width: 60%;
   }
 }
