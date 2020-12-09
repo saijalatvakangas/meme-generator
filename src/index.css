@@ -97,6 +97,7 @@ header > p {
   color: white;
   background: #6441A5;
   margin: 2px;
+  cursor: pointer;
 }
 
 .meme-form > input::-webkit-input-placeholder {
