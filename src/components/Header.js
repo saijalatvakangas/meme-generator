@@ -1,10 +1,11 @@
 import React from 'react';
+import picture from '../pictures/trollface.png';
 
 function Header() {
   return (
     <header>
       <img
-        src="http://www.pngall.com/wp-content/uploads/2016/05/Trollface.png"
+        src={picture}
         alt="trollface"
       />
       <p>Meme Generator</p>
