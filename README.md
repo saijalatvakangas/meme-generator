@@ -1,4 +1,40 @@
-# Getting Started with Create React App
+# Meme generator
+
+This is a simple React App used to make your own memes. A base for this project is
+created by following freeCodeCamp.org's [Youtube tutorial](https://www.youtube.com/watch?v=DLX62G4lc44&t=14225s&ab_channel=freeCodeCamp.org). After the tutorial App got following features:
+- Responsive content.
+
+## How to run the application
+
+Clone project to your working directory:
+
+```
+$ git clone git@github.com:saijalatvakangas/meme-generator.git
+```
+
+Move under the project folder:
+
+```
+$ cd meme-generator
+```
+
+Install dependencies:
+
+```
+$ npm install
+```
+
+Start the application:
+
+```
+$ npm start
+```
+
+Application should run on your local host [http://localhost:3000](http://localhost:3000).
+
+# The original content of README file
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
